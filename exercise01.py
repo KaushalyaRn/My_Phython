@@ -1,0 +1,11 @@
+print("Hi there!")
+print("Welcome to the introduction course")
+print ("Row, row, row your boat,")
+print ("Gently down the stream.")
+print ("Merrily, merrily, merrily, merrily,")
+print ("Life is but a dream.")
+print (2 + 3)
+print (2 + 6 * 2)
+print ("hours in a year")
+#there are 24 hours in each day and 365 days in each year
+print ( 365 * 24)
